@@ -2,6 +2,9 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+title: Irina Ukhova (QA)
+analytics: UA-83979019-1
+
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -180,3 +183,5 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+# TODO: refresh, one language? fix pdf link, analytics tracker, small bookmark pic
