@@ -53,7 +53,7 @@ career-profile:
 
 education:
     - degree: MSc in Economics
-      university: Московский Государственный Открытый Университет (МГОУ)
+      university: МГОУ
       time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -163,11 +163,11 @@ skills:
       - name: TestRail
         level: 80%
 
-      - name: Postman
-        level: 65%
-
       - name: Jira
         level: 80%
+
+      - name: Postman
+        level: 65%
 
       - name: работа в MacOS/Linux
         level: 55%
