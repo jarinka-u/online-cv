@@ -41,8 +41,9 @@ sidebar:
         link:
 
 career-profile:
-    title: Обо мне
+    title: Career Profile / Обо мне
     summary: |
+      Интерес к тестированию и исследованию продукта.
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit.
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -86,8 +87,15 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - тестирование Web-приложений
+          - тестирование REST API
+          - проведение регрессионного, функционального, smoke тестирования
+          - знание и практическое применение методологий тест-дизайна (эквивалентные классы, pair-wise testing, ...)
+          - Postman, TestRail
+          - JIRA
+          - git
+          - базовые знания SQL
+          - работа в MacOS/Linux
     - role: Customer Success Manager
       time: 2010 - 2019
       company: Albi, OOO
@@ -99,9 +107,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Методист
+      time: 2004 - 2010
+      company: РТУ МИРЭА, Москва
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,7 +118,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-projects:
+Проекты:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
