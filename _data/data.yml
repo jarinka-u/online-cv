@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ирина Ухова
-    tagline: Специалист по ручному тестированию
+    tagline: Software QA Tester
     avatar: id.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,45 +41,47 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile / Обо мне
+    title: Career Profile
     summary: |
-      Интерес к тестированию и исследованию продукта. ISTQB - буду делать.
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit.
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required. You can [download my CV here]().
+      I'm holding two MSc degrees in Economics and Engineering. Besides strong education
+      I have over 1.5 years of professional QA experience. I started my career as QA tester
+      in a hedge fund baked startup (by Mainland Capital Asia). I'm constantly learning and
+      applying essential testing techniques to real-life problems. My next goal is to hold
+      advanced ISTQB certificate (CTAL).
+      I'm looking for a team of tech-savvy people with developer culture and well-established processes.
+      I have strong interest in testing and product research.
+      You can [download my CV here](http://www.africau.edu/images/default/sample.pdf).
 
 education:
     - degree: MSc in Economics
       university: МГОУ
       time: 2008 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#      details: |
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
     - degree: MSc in Electrical Engineering
       university: РТУ МИРЭА
       time: 1998 - 2004
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#      details: |
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 
 experiences:
     - role: Software QA Tester
       time: 2020 - Present
       company: Mainland Capital Asia, Singapore
       details: |
+        At this position I developed...
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
