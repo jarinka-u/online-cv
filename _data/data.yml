@@ -100,7 +100,7 @@ experiences:
           - регистрация и контроль исправления дефектов
           - оформление тестовой документации
     - role: Customer Success Manager
-      time: 2010 - 2019
+      time: 2010 - 2020
       company: Albi, OOO
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -110,9 +110,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Методист
+    - role: Methodist
       time: 2004 - 2010
-      company: РТУ МИРЭА, Москва
+      company: MGOU, Moscow
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -153,13 +153,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: тест-план, чек-листы, тест-кейсы
+      - name: test plan, checklists, test cases
         level: 98%
 
-      - name: тестирование Web-приложений
+      - name: Web-applications testing
         level: 98%
 
-      - name: тестирование REST API
+      - name: REST API testing
         level: 80%
 
       - name: TestRail
@@ -171,7 +171,7 @@ skills:
       - name: Postman
         level: 65%
 
-      - name: работа в MacOS/Linux
+      - name: MacOS/Linux
         level: 55%
 
       - name: git
